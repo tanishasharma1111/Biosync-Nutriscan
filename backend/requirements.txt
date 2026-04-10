@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-bcrypt
+opencv-python-headless
+requests
+python-dotenv
+
+gunicorn
+PyJWT
